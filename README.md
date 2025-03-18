@@ -2,17 +2,14 @@
 Android-Developer-Basic
 #
 
-
-https://github.com/user-attachments/assets/c868f369-530e-4a49-9a9c-f599163356ca
-
+![video_2025-03-18_14-27-34](https://github.com/user-attachments/assets/00e8b758-6125-4866-9c1e-7feac56be51f)
 
 #
 
-
-https://github.com/user-attachments/assets/0b2613dc-0ece-43f8-adfb-81afe0490f9f
-
+![video_2025-03-18_14-27-48](https://github.com/user-attachments/assets/3c43c279-be87-45b1-82a8-48e115e0fd8a)
 
 #
 
-https://github.com/user-attachments/assets/32b28d5f-6851-4df5-a2f2-e40eb35cf9f5
+![video_2025-03-18_14-28-00](https://github.com/user-attachments/assets/cc1115b3-bdba-4131-921c-2d2c9823a085)
+
 
