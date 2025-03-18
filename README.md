@@ -29,7 +29,7 @@ SolarTrack помогает пользователям:
 - UseCase для бизнес-логики
 - DataSource для работы с API и локальным хранилищем
 
-##
+### Примеры работы приложения: 
 
 ![video_2025-03-18_14-27-34](https://github.com/user-attachments/assets/00e8b758-6125-4866-9c1e-7feac56be51f)
 
@@ -41,4 +41,4 @@ SolarTrack помогает пользователям:
 
 ![video_2025-03-18_14-28-00](https://github.com/user-attachments/assets/cc1115b3-bdba-4131-921c-2d2c9823a085)
 
-
+### Дополнительные функции приложения в будущем: 
