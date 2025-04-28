@@ -26,14 +26,18 @@ SolarTrack помогает пользователям:
 
 
 
-
-https://github.com/user-attachments/assets/40119076-8125-429e-b7e7-79b3861ff180
-
-
-https://github.com/user-attachments/assets/b52afdc6-4d24-4db9-84e1-fab21ceee9db
+https://github.com/user-attachments/assets/8b1c8c69-8af0-48f5-bb5e-fd2a7b709043
 
 
 
+https://github.com/user-attachments/assets/a819fddc-ae9a-45d6-aad0-2d0fcd64cb86
 
-https://github.com/user-attachments/assets/22155048-ac03-4934-852c-be46f6788f95
+
+
+https://github.com/user-attachments/assets/b5289075-e640-47a8-b258-c98a352c6765
+
+
+
+
+
 
